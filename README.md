@@ -1,1 +1,2 @@
-
+- Created a dynamic Weather App for real-time global weather conditions and forecasts.
+- Technology Used: React JS, JavaScript, HTML, CSS
